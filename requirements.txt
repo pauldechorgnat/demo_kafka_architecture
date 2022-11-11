@@ -29,7 +29,7 @@ ply==3.11
 py4j==0.10.7
 pyrsistent==0.14.11
 PySocks==1.6.8
-pyspark==2.4.0
+pyspark==3.2.2
 python-dateutil==2.8.0
 pytz==2018.9
 requests==2.21.0
